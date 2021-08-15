@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "201700663_DEPOSITOS", "201700663_DEPOSITOS\201700663_DEPOSITOS.vbproj", "{B1B1D0BC-F67C-4916-A8E0-02698226C2C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B1D0BC-F67C-4916-A8E0-02698226C2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B1D0BC-F67C-4916-A8E0-02698226C2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B1D0BC-F67C-4916-A8E0-02698226C2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B1D0BC-F67C-4916-A8E0-02698226C2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEEE52C6-6AE8-4AAC-8173-7D5F4919EE68}
+	EndGlobalSection
+EndGlobal
