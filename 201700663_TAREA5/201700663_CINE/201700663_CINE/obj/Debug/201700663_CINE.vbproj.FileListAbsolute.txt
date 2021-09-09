@@ -1,0 +1,12 @@
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\bin\Debug\201700663_CINE.exe.config
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\bin\Debug\201700663_CINE.exe
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\bin\Debug\201700663_CINE.pdb
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\bin\Debug\201700663_CINE.xml
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\obj\Debug\201700663_CINE.vbproj.AssemblyReference.cache
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\obj\Debug\_201700663_CINE.Form1.resources
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\obj\Debug\_201700663_CINE.Resources.resources
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\obj\Debug\201700663_CINE.vbproj.GenerateResource.cache
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\obj\Debug\201700663_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\obj\Debug\201700663_CINE.exe
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\obj\Debug\201700663_CINE.xml
+C:\Users\Luis Arias\Desktop\Universidad\Programacion2\201700663_TAREA5\201700663_CINE\201700663_CINE\obj\Debug\201700663_CINE.pdb
